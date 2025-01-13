@@ -2,16 +2,17 @@
 	"name" : "BLINK ALT TEXT",
 	"slug" : "blink-alt-text",
 	"author" : "Blink Bytes AI",
-	"author_profile" : "",
-	"version" : "1.4",
+	"author_profile" : "https://profiles.wordpress.org/rudrastyh",
+	"version" : "2.0",
 	"download_url" : "https://updater.alttextwp.com/updater/new-blink-alt-text.zip",
 	"requires" : "3.0",
-	"tested" : "8.1.17",
+	"tested" : "5.8",
 	"requires_php" : "5.3",
 	"last_updated" : "2023-12-24 15:09:00",
 	"sections" : {
 		"description" : "AI-Powered SEO tools for Wordpress.",
-		"installation" : "Click the activate button and that's it."
+		"installation" : "Click the activate button and that's it.",
+		"changelog" : "<h4>1.0 –  1 august 2021</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
 	},
 	"banners" : {
 		"low" : "https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png",
