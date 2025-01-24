@@ -4,7 +4,7 @@
 	"author" : "Blink Bytes AI",
 	"author_profile" : "https://profiles.wordpress.org/rudrastyh",
 	"version" : "2.0",
-	"download_url" : "https://updater.alttextwp.com/updater/new-blink-alt-text-nested.zip",
+	"download_url" : "https://github.com/Cerulean-Studio/bbai-plugin-updater/releases/download/testing-release/new-blink-alt-text-nested.zip",
 	"requires" : "3.0",
 	"tested" : "5.8",
 	"requires_php" : "5.3",
